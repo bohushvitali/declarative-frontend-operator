@@ -22,13 +22,18 @@ Declarative Frontend Operator for Kubernetes
 
 **Declarative Frontend Operator** is a Kubernetes Operators to dynamically generate Application Frontend based on Kubernetes Custom Resource Definition.
 
-## Problem Statement
+## Resource Kinds
 
-## Problem Solution
+- Application
+- Schema
+- Layout
+- Content Translations
+- Behaviour
+- Data
 
-## Resources
+## References
 
-Schema
-Layout
-Behaviour
-Data
+- Operator Framework
+- JSON Schema
+- Storybook
+- XState
